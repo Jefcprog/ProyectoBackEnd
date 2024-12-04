@@ -1,0 +1,346 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|c:\\users\\usuario\\onedrive\\desktop\\ecotec\\cuarto semestre\\software ii\\proyectobackend\\proyectobackend\\controllers\\usuariorolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|solutionrelative:proyectobackend\\controllers\\usuariorolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|c:\\users\\usuario\\onedrive\\desktop\\ecotec\\cuarto semestre\\software ii\\proyectobackend\\proyectobackend\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|solutionrelative:proyectobackend\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|c:\\users\\usuario\\onedrive\\desktop\\ecotec\\cuarto semestre\\software ii\\proyectobackend\\proyectobackend\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|solutionrelative:proyectobackend\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|c:\\users\\usuario\\onedrive\\desktop\\ecotec\\cuarto semestre\\software ii\\proyectobackend\\proyectobackend\\controllers\\datospersonalecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|solutionrelative:proyectobackend\\controllers\\datospersonalecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|c:\\users\\usuario\\onedrive\\desktop\\ecotec\\cuarto semestre\\software ii\\proyectobackend\\proyectobackend\\controllers\\autenticacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|solutionrelative:proyectobackend\\controllers\\autenticacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|c:\\users\\usuario\\onedrive\\desktop\\ecotec\\cuarto semestre\\software ii\\proyectobackend\\proyectobackend\\utilitarios\\controlerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|solutionrelative:proyectobackend\\utilitarios\\controlerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|c:\\users\\usuario\\onedrive\\desktop\\ecotec\\cuarto semestre\\software ii\\proyectobackend\\proyectobackend\\utilitarios\\iservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|solutionrelative:proyectobackend\\utilitarios\\iservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|c:\\users\\usuario\\onedrive\\desktop\\ecotec\\cuarto semestre\\software ii\\proyectobackend\\proyectobackend\\utilitarios\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|solutionrelative:proyectobackend\\utilitarios\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|c:\\users\\usuario\\onedrive\\desktop\\ecotec\\cuarto semestre\\software ii\\proyectobackend\\proyectobackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|solutionrelative:proyectobackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|c:\\users\\usuario\\onedrive\\desktop\\ecotec\\cuarto semestre\\software ii\\proyectobackend\\proyectobackend\\proyectobackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|solutionrelative:proyectobackend\\proyectobackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|c:\\users\\usuario\\onedrive\\desktop\\ecotec\\cuarto semestre\\software ii\\proyectobackend\\proyectobackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|solutionrelative:proyectobackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|c:\\users\\usuario\\onedrive\\desktop\\ecotec\\cuarto semestre\\software ii\\proyectobackend\\proyectobackend\\models\\usuariorole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|solutionrelative:proyectobackend\\models\\usuariorole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|c:\\users\\usuario\\onedrive\\desktop\\ecotec\\cuarto semestre\\software ii\\proyectobackend\\proyectobackend\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|solutionrelative:proyectobackend\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|c:\\users\\usuario\\onedrive\\desktop\\ecotec\\cuarto semestre\\software ii\\proyectobackend\\proyectobackend\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|solutionrelative:proyectobackend\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|c:\\users\\usuario\\onedrive\\desktop\\ecotec\\cuarto semestre\\software ii\\proyectobackend\\proyectobackend\\models\\proyectosoftwarecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|solutionrelative:proyectobackend\\models\\proyectosoftwarecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|c:\\users\\usuario\\onedrive\\desktop\\ecotec\\cuarto semestre\\software ii\\proyectobackend\\proyectobackend\\models\\datospersonale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|solutionrelative:proyectobackend\\models\\datospersonale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|c:\\users\\usuario\\onedrive\\desktop\\ecotec\\cuarto semestre\\software ii\\proyectobackend\\proyectobackend\\models\\autenticacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|solutionrelative:proyectobackend\\models\\autenticacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|c:\\users\\usuario\\onedrive\\desktop\\ecotec\\cuarto semestre\\software ii\\proyectobackend\\proyectobackend\\requisitos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2E734C-035B-4718-B1D4-03DD5233B65B}|ProyectoBackEnd\\ProyectoBackEnd.csproj|solutionrelative:proyectobackend\\requisitos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioRoleController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Controllers\\UsuarioRoleController.cs",
+              "RelativeDocumentMoniker": "ProyectoBackEnd\\Controllers\\UsuarioRoleController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Controllers\\UsuarioRoleController.cs",
+              "RelativeToolTip": "ProyectoBackEnd\\Controllers\\UsuarioRoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:21:19.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ProyectoBackEnd\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ProyectoBackEnd\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:21:02.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "ProyectoBackEnd\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "ProyectoBackEnd\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:20:44.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatosPersonaleController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Controllers\\DatosPersonaleController.cs",
+              "RelativeDocumentMoniker": "ProyectoBackEnd\\Controllers\\DatosPersonaleController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Controllers\\DatosPersonaleController.cs",
+              "RelativeToolTip": "ProyectoBackEnd\\Controllers\\DatosPersonaleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:20:30.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutenticacionController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Controllers\\AutenticacionController.cs",
+              "RelativeDocumentMoniker": "ProyectoBackEnd\\Controllers\\AutenticacionController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Controllers\\AutenticacionController.cs",
+              "RelativeToolTip": "ProyectoBackEnd\\Controllers\\AutenticacionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:20:08.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ControlError.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Utilitarios\\ControlError.cs",
+              "RelativeDocumentMoniker": "ProyectoBackEnd\\Utilitarios\\ControlError.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Utilitarios\\ControlError.cs",
+              "RelativeToolTip": "ProyectoBackEnd\\Utilitarios\\ControlError.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:14:52.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IServices.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Utilitarios\\IServices.cs",
+              "RelativeDocumentMoniker": "ProyectoBackEnd\\Utilitarios\\IServices.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Utilitarios\\IServices.cs",
+              "RelativeToolTip": "ProyectoBackEnd\\Utilitarios\\IServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:13:17.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Utilitarios\\Services.cs",
+              "RelativeDocumentMoniker": "ProyectoBackEnd\\Utilitarios\\Services.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Utilitarios\\Services.cs",
+              "RelativeToolTip": "ProyectoBackEnd\\Utilitarios\\Services.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:11:34.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProyectoBackEnd",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\ProyectoBackEnd.csproj",
+              "RelativeDocumentMoniker": "ProyectoBackEnd\\ProyectoBackEnd.csproj",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\ProyectoBackEnd.csproj",
+              "RelativeToolTip": "ProyectoBackEnd\\ProyectoBackEnd.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T21:09:18.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoBackEnd\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Program.cs",
+              "RelativeToolTip": "ProyectoBackEnd\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:06:43.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "ProyectoBackEnd\\appsettings.json",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\appsettings.json",
+              "RelativeToolTip": "ProyectoBackEnd\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T21:04:57.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioRole.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Models\\UsuarioRole.cs",
+              "RelativeDocumentMoniker": "ProyectoBackEnd\\Models\\UsuarioRole.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Models\\UsuarioRole.cs",
+              "RelativeToolTip": "ProyectoBackEnd\\Models\\UsuarioRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:03:23.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "ProyectoBackEnd\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Models\\Usuario.cs",
+              "RelativeToolTip": "ProyectoBackEnd\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:03:21.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "ProyectoBackEnd\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Models\\Role.cs",
+              "RelativeToolTip": "ProyectoBackEnd\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:03:19.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DatosPersonale.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Models\\DatosPersonale.cs",
+              "RelativeDocumentMoniker": "ProyectoBackEnd\\Models\\DatosPersonale.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Models\\DatosPersonale.cs",
+              "RelativeToolTip": "ProyectoBackEnd\\Models\\DatosPersonale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:03:16.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Autenticacion.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Models\\Autenticacion.cs",
+              "RelativeDocumentMoniker": "ProyectoBackEnd\\Models\\Autenticacion.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Models\\Autenticacion.cs",
+              "RelativeToolTip": "ProyectoBackEnd\\Models\\Autenticacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:03:11.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProyectoSoftwareContext.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Models\\ProyectoSoftwareContext.cs",
+              "RelativeDocumentMoniker": "ProyectoBackEnd\\Models\\ProyectoSoftwareContext.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Models\\ProyectoSoftwareContext.cs",
+              "RelativeToolTip": "ProyectoBackEnd\\Models\\ProyectoSoftwareContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:02:15.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Requisitos.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Requisitos.cs",
+              "RelativeDocumentMoniker": "ProyectoBackEnd\\Requisitos.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\ECOTEC\\Cuarto Semestre\\Software II\\ProyectoBackEnd\\ProyectoBackEnd\\Requisitos.cs",
+              "RelativeToolTip": "ProyectoBackEnd\\Requisitos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:40:47.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
